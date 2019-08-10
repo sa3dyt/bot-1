@@ -1,0 +1,6 @@
+owner=425962504535932929
+prefix=MJ
+game=MJhelp
+stayinchannel=false
+songinstatus=true
+token=NTkxOTI4NTgwMTcxMzY2NDAy.XU6-XA.1h8EPvqc5zcw12c-eAxvqbb6I6g
